@@ -51,22 +51,11 @@ This is where I've uploaded the assignments I've completed for the **Datatalks L
 * Online evaluation techniques
 * Monitoring user feedback with dashboards
 
-📄[**Homework 4**](Homework_04/)
-
 
 ### Module 5: Best Practices
 
 * Hybrid search
 * Document reranking
-
-📄[**Homework 5**](Homework_05/)
-
-
-### Module 6: Bonus - End-to-End Project
-
-* Build a fitness assistant using LLMs
-
-📄[**Homework 6**](Homework_06/)
 
 
 ### Project
@@ -76,7 +65,7 @@ Putting everything we learned to practice
 * Week 1 and 2: working on your project
 * Week 3: reviewing your peers
 
-🔗[**Link to My Project**]()
+🔗[**Link to My Project**](https://github.com/valeqm/RAG-File-Assistant)
 
 
 ## 📖 ZoomCamp Course
